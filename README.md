@@ -1,14 +1,14 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,55:173B5E,100:16A394&height=210&section=header&text=Belal%20Mohamed&fontSize=48&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn" alt="Animated profile header" />
+<img align="right" width="160" src="https://raw.githubusercontent.com/gitbhub998-collab/gitbhub998-collab/main/profile-assets/belal-avatar.png" alt="Belal Mohamed's profile photo in a circular teal and blue frame" />
+
+<h1>Belal Mohamed</h1>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=2800&pause=900&color=16A394&center=false&vCenter=true&width=560&height=48&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+PostgreSQL;Modern+Web+Applications;Bilingual+Engineering+Learning+Tools" alt="Full-stack developer building modern web applications and engineering learning tools" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=16A394&center=true&vCenter=true&width=760&height=48&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+PostgreSQL;Modern+Web+Applications;Bilingual+Engineering+Learning+Tools" alt="Full-stack developer building modern web applications and engineering learning tools" />
-</p>
+<p>Full-Stack Developer based in Egypt, building modern web applications and bilingual engineering learning tools.</p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/262562552?v=4" width="128" alt="Belal Mohamed's GitHub profile photo" />
-</p>
+<br clear="right" />
 
 <p align="center">
   <a href="https://github.com/gitbhub998-collab">
