@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,55:173B5E,100:16A394&height=210&section=header&text=Belal-Mohamed&fontSize=48&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn" alt="Animated profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101828,55:173B5E,100:16A394&height=210&section=header&text=Belal%20Mohamed&fontSize=48&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn" alt="Animated profile header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=16A394&center=true&vCenter=true&width=760&height=48&lines=Web+Developer;Bilingual+Engineering+Learning+Tools;Automotive+and+Interactive+Web+Products" alt="Web developer building engineering learning tools and interactive web products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=16A394&center=true&vCenter=true&width=760&height=48&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+PostgreSQL;Modern+Web+Applications;Bilingual+Engineering+Learning+Tools" alt="Full-stack developer building modern web applications and engineering learning tools" />
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/262562552?v=4" width="128" alt="Belal-Mohamed's GitHub profile photo" />
+  <img src="https://avatars.githubusercontent.com/u/262562552?v=4" width="128" alt="Belal Mohamed's GitHub profile photo" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## About
 
-I'm a web developer based in Egypt. I build practical web experiences, including automotive products and bilingual learning tools for railway and electrical engineering topics.
+I'm a Full-Stack Developer based in Egypt, building modern web applications with React, Node.js, Express, and PostgreSQL. My work includes automotive products and bilingual learning tools for railway and electrical engineering topics.
 
 ## Featured work
 
@@ -55,6 +55,7 @@ A collection of five English-Arabic interactive quizzes with **225 questions** a
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
