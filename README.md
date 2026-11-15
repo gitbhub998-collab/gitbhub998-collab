@@ -46,6 +46,12 @@ A collection of five English-Arabic interactive quizzes with **225 questions** a
 - **Electro Pneumatic** — 20-question electro-pneumatics quiz · [Repository](https://github.com/gitbhub998-collab/electro-pneumatic) · [Live site](https://electro-pneumatic.vercel.app)
 - **Railway Accidents** — 15 questions on railway accidents and disaster management · [Repository](https://github.com/gitbhub998-collab/railway-accident) · [Live site](https://railway-accident.vercel.app)
 
+### Personal portfolio websites
+
+- **Railway Technology** — Portfolio for a railway technology student and automotive mechanic · [Repository](https://github.com/gitbhub998-collab/Esraa-Ahmed-3) · [Live site](https://esraa-ahmed-3.vercel.app)
+- **Electromechanical and HVAC** — Technician portfolio · [Repository](https://github.com/gitbhub998-collab/Mohamed-Farid-10) · [Live site](https://mohamed-farid-10.vercel.app)
+- **Railway Engineering** — Portfolio for a railway engineering student · [Repository](https://github.com/gitbhub998-collab/Omer-walaa-7) · [Live site](https://omer-walaa-7.vercel.app)
+
 ## Technologies
 
 <p>
