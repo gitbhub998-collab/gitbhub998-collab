@@ -14,6 +14,9 @@
   <a href="https://github.com/gitbhub998-collab">
     <img src="https://img.shields.io/badge/GitHub-gitbhub998--collab-181717?style=flat-square&logo=github" alt="GitHub profile" />
   </a>
+  <a href="https://www.linkedin.com/in/bilal-mohamed-044158375">
+    <img src="https://img.shields.io/badge/LinkedIn-Belal%20Mohamed-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
   <img src="https://img.shields.io/badge/Location-Egypt-16A394?style=flat-square" alt="Based in Egypt" />
 </p>
 
