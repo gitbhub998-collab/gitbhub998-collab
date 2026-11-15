@@ -37,13 +37,11 @@ An automotive platform with a car-modification configurator, admin dashboard, an
 
 A collection of five English-Arabic interactive quizzes with **225 questions** across railway, electrical, electro-pneumatic, and quality-assessment topics.
 
-| Project | What it covers | Links |
-| --- | --- | --- |
-| Signaling Power Supplies | 100 questions on railway signaling and power supplies | [Repository](https://github.com/gitbhub998-collab/signaling-power-supply) · [Live site](https://railway-accident-s4rg.vercel.app) |
-| Electro Circuit | 60 questions on circuit concepts and analysis | [Repository](https://github.com/gitbhub998-collab/electro-circuit) |
-| Quality Assessment | 30-question quality-assessment quiz | [Repository](https://github.com/gitbhub998-collab/quality) |
-| Electro Pneumatic | 20-question electro-pneumatics quiz | [Repository](https://github.com/gitbhub998-collab/electro-pneumatic) · [Live site](https://electro-pneumatic.vercel.app) |
-| Railway Accidents | 15 questions on railway accidents and disaster management | [Repository](https://github.com/gitbhub998-collab/railway-accident) · [Live site](https://railway-accident.vercel.app) |
+- **Signaling Power Supplies** — 100 questions on railway signaling and power supplies · [Repository](https://github.com/gitbhub998-collab/signaling-power-supply) · [Live site](https://railway-accident-s4rg.vercel.app)
+- **Electro Circuit** — 60 questions on circuit concepts and analysis · [Repository](https://github.com/gitbhub998-collab/electro-circuit)
+- **Quality Assessment** — 30-question quality-assessment quiz · [Repository](https://github.com/gitbhub998-collab/quality)
+- **Electro Pneumatic** — 20-question electro-pneumatics quiz · [Repository](https://github.com/gitbhub998-collab/electro-pneumatic) · [Live site](https://electro-pneumatic.vercel.app)
+- **Railway Accidents** — 15 questions on railway accidents and disaster management · [Repository](https://github.com/gitbhub998-collab/railway-accident) · [Live site](https://railway-accident.vercel.app)
 
 ## Technologies
 
